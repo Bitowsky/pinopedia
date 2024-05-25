@@ -1,0 +1,8 @@
+{
+    "c2dictionary": true,
+    "data": {
+        "default": "brawl_lobby_animated",
+        "halloween": "brawloween_lobby_animated",
+        "retropolis": "retropolis_lobby_animated"
+    }
+}
